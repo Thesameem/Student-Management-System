@@ -2,6 +2,14 @@
 
 # Student Management System
 
+
+Team Members Name:
+1.Rabee Adhikari
+2.Sameem Din Miya
+
+Postman API backend documentation:https://documenter.getpostman.com/view/44176276/2sB34eKi9Y
+
+
 A comprehensive Student Management System built with Java and Spring Boot. This project was developed as a part of the Seventh Semester curriculum and provides a robust backend API for managing students, courses, and departments.
 
 
@@ -27,13 +35,9 @@ src/main/java/com/example/demo/
 
 
 
-Postman API backend documentation:https://documenter.getpostman.com/view/44176276/2sB34eKi9Y
 
 
 
-Team Members Name:Rabee Adhikari
-
-      		       :Sameem Din Miya
 
 
 
