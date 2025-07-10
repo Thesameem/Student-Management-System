@@ -13,13 +13,13 @@ Features:
 
 Project Folder Structure:
 src/main/java/com/example/demo/
-  ├── controller/    # REST API controllers
-  ├── dto/           # Data Transfer Objects
-  ├── model/         # Entity models
-  ├── repository/    # Spring Data JPA repositories
-  ├── service/       # Business logic
-  ├── security/      # JWT and security configuration
-  └── Response/      # API response wrappers
+├── controller/ # REST API controllers
+├── dto/ # Data Transfer Objects
+├── model/ # Entity models
+├── repository/ # Spring Data JPA repositories
+├── service/ # Business logic
+├── security/ # JWT and security configuration
+└── response/ # API response wrappers
 
 
 
