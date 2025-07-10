@@ -1,3 +1,5 @@
+```text
+
 # Student Management System
 
 A comprehensive Student Management System built with Java and Spring Boot. This project was developed as a part of the Seventh Semester curriculum and provides a robust backend API for managing students, courses, and departments.
@@ -12,7 +14,6 @@ Features:
 
 
 Project Folder Structure:
-```text
 src/main/java/com/example/demo/
 ├── controller/ # REST API controllers
 ├── dto/ # Data Transfer Objects
