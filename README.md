@@ -33,7 +33,7 @@ Postman API backend documentation:https://documenter.getpostman.com/view/4417627
 
 Team Members Name:Rabee Adhikari
 
-&nbsp;		       :Sameem Din Miya
+      		       :Sameem Din Miya
 
 
 
