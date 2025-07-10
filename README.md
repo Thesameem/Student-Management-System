@@ -12,6 +12,7 @@ Features:
 
 
 Project Folder Structure:
+```text
 src/main/java/com/example/demo/
 ├── controller/ # REST API controllers
 ├── dto/ # Data Transfer Objects
